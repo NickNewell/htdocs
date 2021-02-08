@@ -1,6 +1,8 @@
 <?php
-  include 'templates\header.php'
+  include 'templates\header.php';
+  include $_SERVER['DOCUMENT_ROOT']."/templates/header.php";
 ?>
+
 
 <!-- Contact Section -->
 <section id="contact">
@@ -53,5 +55,6 @@
   </body>
 
 <?php
-include 'templates\footer.php'
+  include 'templates\footer.php';
+  include $_SERVER['DOCUMENT_ROOT']."/templates/footer.php";
 ?>
