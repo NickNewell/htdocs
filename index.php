@@ -1,10 +1,7 @@
 <?php
-  include 'templates\header.php';
   include $_SERVER['DOCUMENT_ROOT']."/templates/header.php";
 ?>
 
-
-    <!-- Header -->
     <header class="masthead bg-primary text-center">
       <div class="container">
         <img class="img-fluid mb-5 d-block mx-auto" src="img/medallionSimple.png" alt="">
@@ -14,11 +11,6 @@
       </div>
     </header>
 
-    
-
-    
-
 <?php
-  include 'templates\footer.php';
   include $_SERVER['DOCUMENT_ROOT']."/templates/footer.php";
 ?>
