@@ -1,4 +1,7 @@
 <?php
+  $pageTitle = 'City of Manvel Intranet Site';
+  $keywords = 'City of Manvel Intranet Site';
+  $description = 'City of Manvel Intranet Site';
   include $_SERVER['DOCUMENT_ROOT']."/templates/header.php";
 ?>
 

@@ -1,4 +1,7 @@
 <?php
+    $pageTitle = 'Social Media Form';
+    $keywords = 'Social';
+    $description = 'Social Media Form';
   include $_SERVER['DOCUMENT_ROOT']."/templates/header.php";
 ?>
 
