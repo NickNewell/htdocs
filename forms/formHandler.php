@@ -6,7 +6,7 @@
 
     if (isset($name)) {
         
-        $to = "nicholas.a.newell@gmail.com";
+        $to = "nnewell@cityofmanvel.com";
         $subject = "HTML email";
 
         $message = "
